@@ -31,7 +31,7 @@ class _CartPageState extends State<CartPage> {
     return Scaffold(
       backgroundColor: Color.fromARGB(255, 239, 236, 236),
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: Colors.limeAccent,
         title: Text('Cart'),
         centerTitle: true,
       ),
